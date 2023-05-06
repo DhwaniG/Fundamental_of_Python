@@ -1,4 +1,4 @@
-# Python_Program
+# Core_Python
 I am Learning Python Program under the course 'Data Analytics' from Edubridge learning pvt. ltd.
 This Repository have all the Assignments of fundamental of python.
 
